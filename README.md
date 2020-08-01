@@ -1,0 +1,2 @@
+# TaTeti
+Reducir codigo
